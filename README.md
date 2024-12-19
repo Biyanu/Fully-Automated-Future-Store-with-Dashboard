@@ -1,5 +1,5 @@
 
-# Feature Store Dashboard Project
+# Feature Store and Dashboard Project
 
 ## Overview
 
