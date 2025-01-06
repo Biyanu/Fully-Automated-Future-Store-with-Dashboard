@@ -1,4 +1,5 @@
 
+![Dashboard Demo](dashboard-demo.gif)
 # Feature Store and Dashboard Project
 
 ## Overview
@@ -53,7 +54,7 @@ This component loads the fetched data into a PostgreSQL database.
 
 ### 4. **Dash Dashboard**
 The interactive dashboard provides data visualizations, showing trends and metrics like sales and discounts by region and day of the week.
-This is how the Dashboard looks like ![Dashboard Demo](dashboard-demo.gif)
+
 
 - **File**: `dashboard.py`
 - **Functionality**:
